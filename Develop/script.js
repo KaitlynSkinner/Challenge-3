@@ -48,6 +48,10 @@ var generatePassword = function() {
 
 var passwordUsed = ""
 
+while (passwordUsed === "" || passwordUsed === null) {
+  passwordUsed = confirm("Not a valid option, please try again!")
+}
+
 for (var i = 0; i < chooseLength; i++) {
   var randomNumber = Math.floor(Math.random() * userChoice.length);
 
@@ -57,7 +61,7 @@ for (var i = 0; i < chooseLength; i++) {
   console.log(passwordUsed);
 }
 return passwordUsed;
-}
+};
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
 
