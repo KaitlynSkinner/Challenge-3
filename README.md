@@ -18,7 +18,7 @@ When all prompts are answered, the password is generated and displayed to the em
 
 ## Deployed Application
 
-Professional Portfolio - Deployed URL = https://kaitlynskinner.github.io/Challenge-3/
+Password Generator - Deployed URL = https://kaitlynskinner.github.io/Challenge-3/
 
 Git Hub - Repository URL = https://github.com/KaitlynSkinner/Challenge-3.git
 
