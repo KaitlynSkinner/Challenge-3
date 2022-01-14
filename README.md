@@ -22,3 +22,4 @@ Professional Portfolio - Deployed URL = https://kaitlynskinner.github.io/Challen
 
 Git Hub - Repository URL = https://github.com/KaitlynSkinner/Challenge-3.git
 
+![Deployed Application](https://github.com/KaitlynSkinner/Challenge-3/blob/e1996b6390cd4eab6c8079e500c25a300513388c/Challenge-3-Mock-Up.png?raw=true)
