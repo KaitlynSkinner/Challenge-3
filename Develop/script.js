@@ -48,7 +48,8 @@ var generatePassword = function() {
 
 var passwordUsed = ""
 
-while (passwordUsed === "" || passwordUsed === null) {
+//Enter while(!passwordUsed) {...}
+while (!passwordUsed) {
   passwordUsed = confirm("Not a valid option, please try again!")
 }
 
